@@ -4,6 +4,10 @@
 
 <p align="center">
     cp .env.example .env
+  
+</p>
+<p align="center">
+  
     insert database name, password,and user name
 </p>
 <p align="center">
