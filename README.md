@@ -2,18 +2,18 @@
 
 ## To run project
 
-<p align="center">
+<p align="left">
     cp .env.example .env
   
 </p>
-<p align="center">
+<p align="left">
   
     insert database name, password,and user name
 </p>
-<p align="center">
+<p align="left">
     php artisan serve
 </p>
-<p align="center">
+<p align="left">
     php artisan migrate:fresh
 </p>
 
