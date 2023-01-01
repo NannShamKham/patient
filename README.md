@@ -1,7 +1,11 @@
 
 
-## About project
+## To run project
 
+<p align="center">
+    cp .env.example .env
+    insert database name, password,and user name
+</p>
 <p align="center">
     php artisan serve
 </p>
